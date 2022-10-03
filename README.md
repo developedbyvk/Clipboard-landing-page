@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://github.com/developedbyvk]
-- Live Site URL: 
+- Solution URL: [https://github.com/developedbyvk/Clipboard-landing-page]
+- Live Site URL: [https://developedbyvk.github.io/Clipboard-landing-page/]
 
 ## My process
 
